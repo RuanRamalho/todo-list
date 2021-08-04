@@ -1,9 +1,46 @@
-# Template-React-Typescript
+# Template project React and Typescript [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-## Install all dependeces
 
-### `yarn install`
+## Contents
+* React
+* Typescript
+* ESLint
+* Prettier
+* CommitLint
+* Commitizen
 
-## Start server
+## What is this project for?
+It is a model project for react development using typescript. <br> <br>
+In this project I opted for [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), [Commitlint](https://github.com/conventional-changelog/commitlint#what-is-commitlint) and [Commitizen](https://github.com/commitizen/cz-cli) to add some **rules** and **patterns** to follow during development
 
-### `yarn start`
+
+## How to use?
+
+### Install all dependences
+#### `yarn install`
+
+
+### Start server
+#### `yarn start`
+
+### Build
+#### `yarn build`
+
+## How to commit ?
+
+### Add changes to stage area
+#### `git add .`
+
+### Make your commits using commitzen and follow your instructions
+#### `yarn commit`
+
+## Developer
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/matheushdsbr">
+      <img src="https://avatars.githubusercontent.com/u/32910717?v=4" width=120>
+        <p align="center">Matheus Henrique</p>
+      </a>
+    </td>
+</table>
